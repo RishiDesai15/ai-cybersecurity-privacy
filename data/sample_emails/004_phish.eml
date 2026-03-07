@@ -1,0 +1,19 @@
+From: "IT Helpdesk" <helpdesk@corp-it-support.tk>
+Subject: Action Required: Password Expiration Notice
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Authentication-Results: mx.corp.com; spf=softfail; dkim=fail
+
+Hello Employee,
+
+Your corporate password is expiring TODAY. To avoid losing access to your systems,
+update your credentials immediately by clicking the link below:
+
+https://xn--crp-tna.com/reset-password?user=employee&token=XXXYYY
+
+WARNING: If you do not update your password within 24 hours your account
+will be locked. Contact IT immediately if you need assistance.
+
+DO NOT SHARE THIS LINK WITH ANYONE.
+
+IT Support Team

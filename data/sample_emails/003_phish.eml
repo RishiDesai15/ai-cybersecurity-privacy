@@ -1,0 +1,20 @@
+From: "PayPal Security" <security@paypa1-secure.xyz>
+Subject: URGENT: Your PayPal account has been limited
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Authentication-Results: mx.google.com; spf=fail smtp.mailfrom=paypa1-secure.xyz; dkim=fail; dmarc=fail
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have <b>limited your account</b> due to suspicious activity. You must verify
+your identity <b>immediately</b> or your account will be <b>suspended in 24 hours</b>.</p>
+<p>
+  <a href="https://paypa1-secure.xyz/verify?token=abc123">
+    Click here to verify: https://www.paypal.com/account/verify
+  </a>
+</p>
+<p>Failure to act now will result in permanent suspension.</p>
+<p>PayPal Customer Support</p>
+</body>
+</html>

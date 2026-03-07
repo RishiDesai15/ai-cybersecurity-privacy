@@ -1,0 +1,19 @@
+From: GitHub <noreply@github.com>
+Subject: [GitHub] A new public key was added to your account
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Authentication-Results: mx.google.com; spf=pass smtp.mailfrom=github.com; dkim=pass; dmarc=pass
+
+Hi there,
+
+A new public SSH key was added to your GitHub account.
+
+  Key fingerprint: SHA256:AbCdEfGhIjKl...
+
+If you did not add this key, please remove it from your account settings and
+consider changing your password.
+
+https://github.com/settings/keys
+
+Thanks,
+The GitHub Team

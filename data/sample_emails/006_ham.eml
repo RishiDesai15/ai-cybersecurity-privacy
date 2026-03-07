@@ -1,0 +1,21 @@
+From: Stripe <notifications@stripe.com>
+Subject: Your weekly Stripe summary
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Authentication-Results: mx.google.com; spf=pass smtp.mailfrom=stripe.com; dkim=pass; dmarc=pass
+
+Hi there,
+
+Here's your weekly payments summary for the period ending March 1, 2026.
+
+  Total charges:        $1,240.00
+  Successful payments:  14
+  Failed payments:      1
+  Refunds issued:       0
+
+View full details at https://dashboard.stripe.com/reports
+
+If you have questions about a specific charge, visit our support centre.
+We hope you have a great week!
+
+The Stripe Team
