@@ -1,7 +1,7 @@
 
 # AI Cybersecurity & Privacy — Phishing Email Classifier + Explainer (MVP)
 
-A student-friendly, privacy-first phishing detector you can train and run locally in 2–3 weeks.
+A student-friendly, ai privacy-first phishing detector you can train and run locally.
 - Input: `.eml` files (or raw subject/body).
 - Model: DistilBERT (binary classification).
 - Extras: simple rules (SPF/DKIM/DMARC flags if present), link-text vs href mismatch, IDN (homograph) check.
