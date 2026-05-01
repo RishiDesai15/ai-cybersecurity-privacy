@@ -29,6 +29,7 @@ build/
 
 # Environment variables
 .env
+credentials.json
 
 # VS Code
 .vscode/
